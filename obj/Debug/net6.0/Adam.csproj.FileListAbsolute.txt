@@ -1,0 +1,15 @@
+c:\Users\akint\OneDrive\Documents\CSC 235\c#\Adam\bin\Debug\net6.0\Adam.exe
+c:\Users\akint\OneDrive\Documents\CSC 235\c#\Adam\bin\Debug\net6.0\Adam.deps.json
+c:\Users\akint\OneDrive\Documents\CSC 235\c#\Adam\bin\Debug\net6.0\Adam.runtimeconfig.json
+c:\Users\akint\OneDrive\Documents\CSC 235\c#\Adam\bin\Debug\net6.0\Adam.dll
+c:\Users\akint\OneDrive\Documents\CSC 235\c#\Adam\bin\Debug\net6.0\Adam.pdb
+c:\Users\akint\OneDrive\Documents\CSC 235\c#\Adam\obj\Debug\net6.0\Adam.csproj.AssemblyReference.cache
+c:\Users\akint\OneDrive\Documents\CSC 235\c#\Adam\obj\Debug\net6.0\Adam.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\akint\OneDrive\Documents\CSC 235\c#\Adam\obj\Debug\net6.0\Adam.AssemblyInfoInputs.cache
+c:\Users\akint\OneDrive\Documents\CSC 235\c#\Adam\obj\Debug\net6.0\Adam.AssemblyInfo.cs
+c:\Users\akint\OneDrive\Documents\CSC 235\c#\Adam\obj\Debug\net6.0\Adam.csproj.CoreCompileInputs.cache
+c:\Users\akint\OneDrive\Documents\CSC 235\c#\Adam\obj\Debug\net6.0\Adam.dll
+c:\Users\akint\OneDrive\Documents\CSC 235\c#\Adam\obj\Debug\net6.0\refint\Adam.dll
+c:\Users\akint\OneDrive\Documents\CSC 235\c#\Adam\obj\Debug\net6.0\Adam.pdb
+c:\Users\akint\OneDrive\Documents\CSC 235\c#\Adam\obj\Debug\net6.0\Adam.genruntimeconfig.cache
+c:\Users\akint\OneDrive\Documents\CSC 235\c#\Adam\obj\Debug\net6.0\ref\Adam.dll
